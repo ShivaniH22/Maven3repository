@@ -7,3 +7,4 @@ adding ;line
 Mvn file compile code
 change
 Last update
+mvn compile
