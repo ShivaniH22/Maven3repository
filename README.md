@@ -8,3 +8,4 @@ Mvn file compile code
 change
 Last update
 mvn compile
+echo $pwd
