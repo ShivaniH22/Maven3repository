@@ -9,3 +9,4 @@ change
 Last update
 mvn compile
 echo $pwd
+MVN --vrersion
